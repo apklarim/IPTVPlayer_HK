@@ -1,0 +1,73 @@
+# Gradle files
+.gradle
+.gradle/
+build/
+build/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Log/OS Files
+*.log
+*.DS_Store
+
+# Android Studio generated files and folders
+captures/
+.externalNativeBuild/
+.cxx/
+
+# IntelliJ specific files/folders
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# Keystore files
+*.jks
+*.keystore
+
+# Google Services (if you use it)
+google-services.json
+
+# Signing files
+signing.properties
+
+# APK files
+*.apk
+*.aab
+*.aar
+
+# Compiled files
+*.class
+*.o
+*.so
+
+# Generated files
+R.java
+BuildConfig.java
+
+# Node modules
+node_modules/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment files
+.env
+.env.local
+
+# IDE
+.vscode/
+.settings/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Temp files
+*.tmp
+*.bak
+*.swp
